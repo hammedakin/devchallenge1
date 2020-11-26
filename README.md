@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/omoluabii/devchallenge1">
+    <a href="https://omoluabii.github.io/devchallenge1/">
       Solution
     </a>
     <span> | </span>
