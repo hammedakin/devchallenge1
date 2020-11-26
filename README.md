@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://omoluabii.github.io/devchallenge1}">
+    <a href="https://{https://omoluabii.github.io/devchallenge1">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/omoluabii/devchallenge1}">
+    <a href="https://{https://github.com/omoluabii/devchallenge1">
       Solution
     </a>
     <span> | </span>
@@ -59,16 +59,9 @@ This is project is a challenge. this is my solution.
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com]({https://github.io/omoluabii})
-- GitHub [@your-username](https://{github.com/omoluabii})
-- Twitter [@your-twitter](https://{twitter.com/princehakra})
+- Website [https://github.io/omoluabii]
+- GitHub [https://{github.com/omoluabii]
+- Twitter [https://{twitter.com/princehakra]
