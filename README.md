@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://omoluabii.github.io/devchallenge1">
+    <a href="http://https://omoluabii.github.io/devchallenge1">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/omoluabii/devchallenge1">
+    <a href="http://https://github.com/omoluabii/devchallenge1">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="http://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
     </a>
   </h3>
