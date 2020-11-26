@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="http://https://omoluabii.github.io/devchallenge1">
+    <a href="https://github.com/omoluabii/devchallenge1">
       Demo
     </a>
     <span> | </span>
-    <a href="http://https://github.com/omoluabii/devchallenge1">
+    <a href="https://github.com/omoluabii/devchallenge1">
       Solution
     </a>
     <span> | </span>
@@ -62,6 +62,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [https://github.io/omoluabii]
-- GitHub [https://{github.com/omoluabii]
-- Twitter [https://{twitter.com/princehakra]
+- Website [https://github.com/omoluabii]
+- GitHub [https://github.com/omoluabii]
+- Twitter [https://twitter.com/princehakra]
